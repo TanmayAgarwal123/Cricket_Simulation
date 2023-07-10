@@ -2,7 +2,7 @@
 
 <h3>Video Explaination Link</h3>
 https://clipchamp.com/watch/uFMzNSbVsJ0
-
+<br>
 The methodology used in the provided code is to create classes to represent different entities in a cricket match, such as players, teams, field, umpire, commentator, and the match itself. Each class has its own set of properties and methods to simulate the behavior and interactions between these entities.Here's a more detailed explanation of the methodology used in the code:
 
 <h4>Player Class:</h4>The Player class represents a cricket player and contains attributes such as name, bowling ability, batting ability, fielding ability, running ability, and experience. These attributes are used to determine the probabilities of different events occurring during the match.
